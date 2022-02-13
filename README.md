@@ -110,8 +110,8 @@ Atención personalizada al público, entrega a domicilio, tareas varias.
 + **RUBÉN MONTESANO:**  
 **PERIODO TRABAJADO:** 18/04/2007 - 29/05/2007  
 **TAREAS DESEMPEÑADAS:** conductor de transporte de pasajeros (taxi).  
-**DOMICILIO:** V. de Lujan y Arias, Lanús, Bs. As.
-TELÉFONO: 4241-5839
+**DOMICILIO:** V. de Lujan y Arias, Lanús, Bs. As.  
+**TELÉFONO:** 4241-5839
 
 + **OPEN 25 DRUGSTORES:**  
 **PERIODO TRABAJADO:** 01/10/2007 - 30/04/2008  
