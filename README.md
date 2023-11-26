@@ -103,3 +103,5 @@ Actualmente cursando la tecnicatura en informática.
 **DOMICILIO:** 9 de Julio 433, Morón, Bs. As.  
 **TELÉFONO:** (011) 15-3363-1990 (Cra. Cinatra)
 **Modalidad actual de trabajo:** A distancia.
+
+  ![Descargar CV en PDF](CV2023.pdf)
