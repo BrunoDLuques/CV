@@ -15,7 +15,7 @@
 
 **FECHA DE NACIMIENTO:** 06/02/1986
 
-**DOMICILIO:** 9 de Julio 433, Morón, Bs. As.
+**DOMICILIO:** Buenos Aires 494, Susana, Santa Fe
 
 **CELULAR:** (011) 1164282254
 
@@ -38,14 +38,12 @@
 + METALÚRGICA: Manejo de maquinarias industriales, trabajos de herrería, soldadura, cañería y electricidad.-
 
 + ADMINISTRACIÓN: Asientos de comprobantes, descargos ante organizaciones públicas, habilitaciones y transferencias comerciales
- 
-+ RECURSOS HUMANOS: Altas y bajas del personal, administración de los recursos, liquidación y pagos de sueldos, coaching de trabajo en equipo, incentivación para lograr objetivos, análisis FODA, evaluación de desempeño, control de asistencia, licencias y novedades mensuales.- 
 
 + TESORERÍA: Pagos a proveedores, manejo de grandes cantidades de efectivo, emisión y registro de cheques y otros medios de pago, aperturas de cuentas bancarias, manejo de plataformas web bancarias, arqueos de caja.- 
 
-+ CONTABILIDAD: Asignación de cuentas contables, conciliaciones de cuenta corriente, altas / bajas y modificaciones de condición fiscal, autorizaciones de impresión de comprobantes, facturación electrónica, altas / bajas y liquidación de ingresos brutos (Arba), iva y convenio multilateral, redacción y sellados de contratos, administración de puntos de venta e  impresoras fiscales.-
++ CONTABILIDAD: Altas / bajas y modificaciones de condición fiscal, facturación electrónica, altas / bajas y liquidación de ingresos brutos (Arba), iva y convenio multilateral, Liquidación de IVA F2002 y F2083 (libre de Iva digital) redacción y sellados de contratos, administración de puntos de venta e  impresoras fiscales.-
 
-+ INFORMÁTICA: Manejo avanzado de Microsoft Word, Manejo avanzado de Microsoft Excel, Manejo avanzado de Windows, administración de redes LAN, Manejo avanzado de exploradores de internet, buen manejo de herramientas de seguridad informática y sesiones remotas, Siap, aplicativos de Afip, Gobstones, Wollok, Git Hub, Ruby, Java.  
++ INFORMÁTICA: Manejo avanzado de Microsoft Word, Manejo avanzado de Microsoft Excel, Manejo avanzado de Windows, administración de redes LAN, Manejo avanzado de exploradores de internet, buen manejo de herramientas de seguridad informática y sesiones remotas, Siap, aplicativos de Afip, Gobstones, Wollok, Git Hub, HTML(Básico), CSS(Básico), Visual Studio Code.  
 Actualmente cursando la tecnicatura en informática.
 
 ### CURSOS Y TALLERES:
@@ -72,21 +70,6 @@ Actualmente cursando la tecnicatura en informática.
 
 ### EXPERIENCIAS LABORALES:
 
-+ MAXIKIOSCO FAMILY:  
-**PERIODO TRABAJADO:** 06/04/1994 – 03/08/1998  
-**TAREAS DESEMPEÑADAS:** 
-Atención personalizada al público, manejo de stock, control de calidad, trato con proveedores, reposición de mercadería.  
-**DOMICILIO:** Medrano 341, Cap. Fed.  
-**TELÉFONO: 4958-6559**  
-
-
-+ **HELADERÍA GSTAAD:**  
-**PERIODO TRABAJADO:** 04/10/1998 – 12/11/1999  
-**TAREAS DESEMPEÑADAS:** 
-Atención personalizada al público, entrega a domicilio, tareas varias.  
-**DOMICILIO:** Medrano 350, Cap. Fed.
-
-
 + **SHOP EXPRESS:**  
 **PERIODO TRABAJADO:** 01/03/2004 – 08/03/2005  
 **TAREAS DESEMPEÑADAS:** Atención personalizada al público, manejo de stock, control de calidad, trato con proveedores, reposición de mercadería.    
@@ -99,19 +82,6 @@ Atención personalizada al público, entrega a domicilio, tareas varias.
 **TAREAS DESEMPEÑADAS:** Manejo de maquinarias industriales, trabajos de herrería, cañería, sector de compras, construcción de máquinas de bio-combustible.  
 **DOMICILIO:** Crovara 4031, La tablada, Bs. As.  
 **TELÉFONO:** 4699-6641  
-
-
-+ **ROKLA:**   
-**PERIODO TRABAJADO:** 18/03/2007 - 16/04/2007  
-**TAREAS DESEMPEÑADAS:** Conductor de transporte de pasajeros (taxi).  
-**DOMICILIO:** Pringles 1042 cap. Fed.  
-**TELÉFONO:** 4867-4441
-
-+ **RUBÉN MONTESANO:**  
-**PERIODO TRABAJADO:** 18/04/2007 - 29/05/2007  
-**TAREAS DESEMPEÑADAS:** conductor de transporte de pasajeros (taxi).  
-**DOMICILIO:** V. de Lujan y Arias, Lanús, Bs. As.  
-**TELÉFONO:** 4241-5839
 
 + **OPEN 25 DRUGSTORES:**  
 **PERIODO TRABAJADO:** 01/10/2007 - 30/04/2008  
@@ -127,8 +97,9 @@ Atención personalizada al público, entrega a domicilio, tareas varias.
 **TELÉFONO:** (03837) 420250 Cr. David Longo  
 
 
-+ **ESTUDIO CINATRA:**  
++ **ESTUDIO SINATRA:**  
 **PERIODO TRABAJADO:** 01/07/2015 - Actualidad  
-**TAREAS DESEMPEÑADAS:** altas, bajas y modificaciones de condición fiscal, facturación electrónica, altas / bajas y liquidación de ingresos brutos, iva y convenio multilateral, redacción y sellados de contratos, administración de puntos de venta e  impresoras fiscales, habilitaciones comerciales y asesoría informática.  
+**TAREAS DESEMPEÑADAS:** Altas, bajas y modificaciones de condición fiscal, facturación electrónica, altas / bajas y liquidación de ingresos brutos, iva y convenio multilateral, redacción y sellados de contratos, administración de puntos de venta e  impresoras fiscales, habilitaciones comerciales, asesoría impositiva y asesoría informática.  
 **DOMICILIO:** 9 de Julio 433, Morón, Bs. As.  
 **TELÉFONO:** (011) 15-3363-1990 (Cra. Cinatra)
+**Modalidad actual de trabajo:** A distancia.
