@@ -17,7 +17,7 @@
 
 **DOMICILIO:** Buenos Aires 494, Susana, Santa Fe
 
-**CELULAR:** (011) 1164282254
+**CELULAR:** (011) 64282254
 
 **E-MAIL:** bruno_luques@hotmail.com
 
